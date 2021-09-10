@@ -15,7 +15,7 @@ section2: >-
   ## You can use videos, images and text.
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VuNIsY6JdUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 video: https://ucarecdn.com/0ca0c4d5-80a7-4bab-a60b-e00ba0c52fd8/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Also background videos, with poster image & title overlay.
