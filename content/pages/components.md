@@ -11,12 +11,8 @@ section1: >-
 
 
   [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
-section2: >-
-  ## You can use videos, images and text.
-
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VuNIsY6JdUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://ucarecdn.com/0ca0c4d5-80a7-4bab-a60b-e00ba0c52fd8/
+section2: "## You can use videos, images and text."
+video: https://ucarecdn.com/57cc5ff5-5eb0-4477-abd6-dcb1190633f2/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Also background videos, with poster image & title overlay.
 accordion:
